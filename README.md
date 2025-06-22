@@ -1,14 +1,12 @@
 # Twitter-Analysis-Dashboard
-This project is a Twitter Analysis Dashboard built using Power BI. It helps visualize and analyze Twitter data.
+Hi, I'm Monika
 
-## Features
-- Tweet volume over time
-- Top hashtags and mentions
-- User engagement (likes, retweets, replies)
-- Interactive filters and visuals
+This project involves analyzing Twitter data using Power BI to uncover key insights. The dashboard provides a clear and interactive way to explore how users engage on Twitter over time.
 
-## Tools Used
-- Power BI Desktop
+Tools used:
+- Power BI
 - Power Query
 - DAX
-- Twitter data 
+- Twitter data (CSV)
+
+Thanks for checking it out!
